@@ -31,7 +31,8 @@ Actualmente cursando **Programación Backend II: Diseño y Arquitectura en Backe
 
 ## 🏆 Formación Académica
 
-- **Programación Backend I**: Desarrollo avanzado de backend | _En curso_ (2024)
+- **Programación Backend II**: Diseño y Arquitectura backend | en curso (2025)
+- **Programación Backend I**: Desarrollo avanzado de backend |(2025)
 - **Desarrollo Web**: Coderhouse (2024)
 - **JavaScript**: Coderhouse (2024)
 - **Contador Público Nacional**: Universidad Nacional de Mar del Plata (2016)
