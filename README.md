@@ -2,7 +2,7 @@
 
 ### Desarrollador Web | Especialista en JavaScript y React | Apasionado por el Backend
 
-Actualmente cursando **Programación Backend I: Desarrollo Avanzado de Backend** en Coderhouse, con el objetivo de convertirme en **Desarrollador Web Full Stack**. Me destaco en la creación de **E-Commerce** y aplicaciones responsivas, combinando soluciones creativas con tecnologías modernas.
+Actualmente cursando **Programación Backend II: Diseño y Arquitectura en Backend** en Coderhouse, con el objetivo de convertirme en **Desarrollador Web Full Stack**. Me destaco en la creación de **E-Commerce** y aplicaciones responsivas, combinando soluciones creativas con tecnologías modernas.
 
 ---
 
